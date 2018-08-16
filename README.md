@@ -1,6 +1,1 @@
-
-#include <stdio.h>
-main( )
-{
-        printf("hello, world\n");
-}
+printf("hello, [นาย จารุเดช ชายกวด]\n");
